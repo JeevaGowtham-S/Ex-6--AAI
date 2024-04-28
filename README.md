@@ -51,7 +51,7 @@ print ( "Antonyms : " ,set(antonyms) )
 ```
 
 <H3>Output</H3>
-![326229772-d280a59a-dc90-49f9-9506-b2eb5a4f19eb](https://github.com/JeevaGowtham-S/Ex-6--AAI/assets/118042624/49b93e2f-9fed-443c-be73-69d4f244c198)
+
 
 ![326229772-d280a59a-dc90-49f9-9506-b2eb5a4f19eb](https://github.com/JeevaGowtham-S/Ex-6--AAI/assets/118042624/38c9a10f-f28c-4c4d-bcad-92e9224f61e9)
 
