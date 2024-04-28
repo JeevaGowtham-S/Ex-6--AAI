@@ -50,8 +50,8 @@ print ( "Synonyms : " ,set (synonyms) )
 print ( "Antonyms : " ,set(antonyms) )
 ```
 
-<H3>Output</H3>
-![image](https://github.com/JeevaGowtham-S/Ex-6--AAI/assets/118042624/984553a8-aa72-40ac-a72c-31f1e5e1b8ee)
+<H3>Output</H3>![image](https://github.com/JeevaGowtham-S/Ex-6--AAI/assets/118042624/8c9b6866-b3a4-408e-aecf-14b705b76477)
+
 
 
 
